@@ -3,6 +3,7 @@ A simple Ray Casting 3D engine using SDL as the rendering back-end.
 
 # <u>AUTHORS</u>
 - Topister Onyango ... [LinkedIn](https://www.linkedin.com/in/topister-nandera-5930331a5/) 
+- Joseph Aboagye ... [Twitter](https://twitter.com/home?lang=en)
 
 ## The goal of this project is to create a game in 3D using raycasting !
 This was designed for kids so that it could improve their spatial recognition and analytical skills
@@ -35,3 +36,7 @@ Using Linux, Navigate to the `src` folder and Compile with
 #### Most of the code inspiration were adopted from [DrDanick](https://github.com/drdanick)
 
 ### More modifications are underway. Explore and enjoy it!
+
+### <u>Screenshots</u>
+![image](https://user-images.githubusercontent.com/84641604/199459477-a5852e29-38fa-49a7-999f-7a5325e6dbad.png)
+
