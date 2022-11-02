@@ -6,7 +6,8 @@ A simple Ray Casting 3D engine using SDL as the rendering back-end.
 - Joseph Aboagye ... [Twitter](https://twitter.com/home?lang=en)
 
 ## The goal of this project is to create a game in 3D using raycasting !
-This was designed for kids so that it could improve their spatial recognition and analytical skills
+This was designed for kids so that it could improve their spatial recognition and analytical skills. We are looking forward to implement features that includes each age, suggestions are welcomed!😋
+
 
 ## Keyboard Keys for Players
 - `Arrow Keys` -- Player Directions 
