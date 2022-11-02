@@ -39,4 +39,3 @@ Using Linux, Navigate to the `src` folder and Compile with
 
 ### <u>Screenshots</u>
 ![image](https://user-images.githubusercontent.com/84641604/199459477-a5852e29-38fa-49a7-999f-7a5325e6dbad.png)
-
